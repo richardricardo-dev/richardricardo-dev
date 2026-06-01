@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.png" alt="Richard Ricardo Banner" width="100%" border-radius="10" />
+  <img src="./asset/hero.png" alt="Richard Ricardo Banner" width="100%" border-radius="10" />
 </p>
 
 <h5 align="left">Full-Stack Developer focused on building SaaS products, admin dashboards, and modern web applications with Next.js and TypeScript.<br><br>I work with Prisma, Supabase, Neon PostgreSQL, Stripe, and cloud-based technologies to create scalable solutions. My interests include product development, automation, AI-powered workflows, and turning ideas into production-ready applications.</h5>
