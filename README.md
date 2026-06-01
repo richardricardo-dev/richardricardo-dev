@@ -6,10 +6,13 @@
 
 Im a Full-Stack Next.js Developer focused on building scalable web applications, admin systems, landing pages, and SaaS products while leveraging AI to improve development efficiency.
 
-```javascript
-const developer = {
-  passion: "build things",
-  focus: ["Next.js", "TypeScript", "Scalable SaaS"],
-  workflow: "AI-assisted efficiency",
-  goal: "ship fast, clean code"
-};
+<details>
+  <summary>🛠️ Infrastructure, Database & Tools</summary>
+  <br />
+  
+  - **Core Tech:** Next.js, React, TypeScript
+  - **Database & ORM:** Neon, Supabase, PostgreSQL, Prisma
+  - **Cloud & Deployment:** Google Cloud Platform, Vercel
+  - **API & Testing:** Postman, Git
+  - **Design & Management:** Figma, Canva
+</details>
