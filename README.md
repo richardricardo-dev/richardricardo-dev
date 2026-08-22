@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/richardricardo-dev/richardricardo-dev/stats-output/stats.svg" height="150" alt="stats graph"  />
+
   <img src="https://raw.githubusercontent.com/richardricardo-dev/richardricardo-dev/languages-output/languages.svg" height="250" alt="languages graph"  />
 </div>
 
