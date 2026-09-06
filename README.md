@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">Explore my projects, and feel free to reach out for collaboration, opportunities, or just to connect...<br>- https://richard-ricardo.vercel.app/  <br>- richardricardoyohanes@gmail.com</h5>
+<h4 align="left">Explore my projects, and feel free to reach out for collaboration, opportunities, or just to connect...<br>- https://richardricardo.vercel.app/  <br>- richardricardo.dev@gmail.com</h5>
 
 ###
 
